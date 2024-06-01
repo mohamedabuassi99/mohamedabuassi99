@@ -4,8 +4,8 @@
 
 A dedicated Web Developer with a Bachelor’s degree in Computer Science from the Islamic University of Gaza. I have a strong background in various web development technologies and frameworks, with a focus on delivering efficient and user-friendly solutions.
 
-- 📫 Contact: +972597128218 | mohamed.abuassi99@gmail.com
-- 🌍 Location: Gaza, Palestine
+- 📫 Contact: +972597128218 | +201062743242 | mohamed.abuassi99@gmail.com
+- 🌍 Location: Cairo, Egypt
 
 ## Technical Skills
 
