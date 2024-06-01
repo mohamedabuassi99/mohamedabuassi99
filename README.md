@@ -40,6 +40,9 @@ A dedicated Web Developer with a Bachelor’s degree in Computer Science from th
 
 ## Voluntary Contributions
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabuassi99&" alt="mohamedabuassi99" /></p>
+
 - Teacher Assistant, Al-Karmel High School, Gaza Palestine, 2021
 - Web Development Tutor (virtual), American Business Academy, NJ, USA, 2020
 
