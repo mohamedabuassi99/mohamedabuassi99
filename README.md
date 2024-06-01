@@ -16,6 +16,13 @@ A dedicated Web Developer with a Bachelor’s degree in Computer Science from th
 - **Tools:** GitHub, PhpStorm, MySQL Workbench, Postman, TablePlus, Sequel Pro
 - **Content Management:** WordPress, Social Media
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedabuassi99&show_icons=true&locale=en&layout=compact" alt="mohamedabuassi99" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedabuassi99&show_icons=true&locale=en" alt="mohamedabuassi99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabuassi99&" alt="mohamedabuassi99" /></p>
+
 ## Professional Experience
 
 ### Web Developer, Abu Jadayel Company
@@ -41,11 +48,6 @@ A dedicated Web Developer with a Bachelor’s degree in Computer Science from th
 ## Voluntary Contributions
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedabuassi99&show_icons=true&locale=en&layout=compact" alt="mohamedabuassi99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedabuassi99&show_icons=true&locale=en" alt="mohamedabuassi99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabuassi99&" alt="mohamedabuassi99" /></p>
 
 - Teacher Assistant, Al-Karmel High School, Gaza Palestine, 2021
 - Web Development Tutor (virtual), American Business Academy, NJ, USA, 2020
