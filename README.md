@@ -2,58 +2,109 @@
 
 ## About Me
 
-A dedicated Web Developer with a Bachelor’s degree in Computer Science from the Islamic University of Gaza. I have a strong background in various web development technologies and frameworks, with a focus on delivering efficient and user-friendly solutions.
+I’m a full-stack web developer and tech founder based in Muscat, Oman.  
+I build scalable, real-world web applications with a strong focus on **business needs, system design, and long-term maintainability**.
 
-- 📫 Contact: +96871185327 | mohamed.abuassi99@gmail.com
-- 🌍 Location: Oman, Muscat
+Currently, I’m working on **Makani**, a proptech platform focused on property and rental management, while also contributing to enterprise and startup-level projects.
 
-## Technical Skills
+- 💼 Full-Stack Developer | Tech Founder  
+- 🚀 Interests: SaaS, PropTech, System Architecture, Startups  
+- 📍 Location: Muscat, Oman  
+- 📫 Contact: +968 7118 5327 | mohamed.abuassi99@gmail.com  
 
-- **Languages:** Java, C
-- **Web Development:** HTML, CSS, PHP, JavaScript (ES6), JQuery
-- **Frameworks:** Bootstrap, Vue.js, Tailwind CSS, Laravel
-- **Databases:** SQL
-- **Tools:** GitHub, PhpStorm, MySQL Workbench, Postman, TablePlus, Sequel Pro
-- **Content Management:** WordPress, Social Media
+---
 
+## Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedabuassi99&show_icons=true&locale=en&layout=compact" alt="mohamedabuassi99" /></p>
+**Languages**
+- PHP, JavaScript (ES6), SQL  
+- Basic: Java, C
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedabuassi99&show_icons=true&locale=en" alt="mohamedabuassi99" /></p>
+**Frameworks & Libraries**
+- Laravel, Vue.js  
+- Tailwind CSS, Bootstrap  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabuassi99&" alt="mohamedabuassi99" /></p>
+**Frontend**
+- HTML5, CSS3, JavaScript, jQuery  
+
+**Backend & Databases**
+- Laravel, REST APIs  
+- MySQL  
+
+**Tools & Platforms**
+- Git & GitHub  
+- Postman, TablePlus, Sequel Pro, MySQL Workbench  
+- PhpStorm  
+
+**CMS & Others**
+- WordPress  
+- Social Media integrations  
+
+---
+
+## GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedabuassi99&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedabuassi99&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabuassi99" />
+</p>
+
+---
 
 ## Professional Experience
 
-### Web Developer, Abu Jadayel Company
-**May 2023 – Present**
-- Leading the development of a comprehensive ERP system.
+### Web Developer — Sooq Cars  
+**Oct 2024 – Present**
+- Working on the development and maintenance of automotive marketplace systems.
+- Building and optimizing backend services using Laravel.
+- Developing admin dashboards and user-facing features with Vue.js.
+- Improving system performance, data flow, and overall user experience.
+- Collaborating with product and business teams to deliver scalable solutions.
 
-### Web Developer, Al Baha Private College of Science
+### Web Developer — Abu Jadayel Company  
 **May 2023 – Present**
-- Developed and maintained the college's official website.
+- Leading development of a large-scale ERP system.
+- Designing backend architecture and business workflows.
 
-### Web Developer, Regime
+### Web Developer — Al Baha Private College of Science  
+**May 2023 – Present**
+- Developed and maintained the official college website.
+- Improved performance and content management workflows.
+
+### Web Developer — Regime  
 **Jan 2023 – Present**
-- Developed and maintained the online store and dashboard for a healthy food subscription service.
+- Built and maintained an e-commerce platform and admin dashboard.
+- Worked on subscription logic and reporting systems.
 
-### Web Development Specialist, Dietix
+### Web Development Specialist — Dietix  
 **Feb 2021 – Dec 2022**
-- Developed and maintained a comprehensive dashboard for dietary services.
+- Developed a full dashboard for dietary and nutrition services.
+- Implemented user management and reporting features.
 
-### Freelancer
-**Jan 2020 – Present**
-- Diagnosed errors and created solutions for clients on platforms like Upwork and Freelancer.
+### Freelancer  
+**Jan 2020 – aug 2024**
+- Delivered custom web solutions for international clients.
+- Focused on debugging, performance optimization, and feature development.
 
-## Voluntary Contributions
+---
 
+## Voluntary & Community Work
 
+- Teacher Assistant — Al-Karmel High School, Gaza (2021)  
+- Web Development Tutor (Remote) — American Business Academy, USA (2020)
 
-- Teacher Assistant, Al-Karmel High School, Gaza Palestine, 2021
-- Web Development Tutor (virtual), American Business Academy, NJ, USA, 2020
+---
 
-## Connect with Me
+## Connect With Me
 
-- [GitHub](https://github.com/mohamedabuassi99)
-- [Freelancer](https://www.freelancer.com/u/mohamedabuassi9)
-- [Upwork](https://www.upwork.com/freelancers/~01cdc392e434511061)
+- 🌐 GitHub: https://github.com/mohamedabuassi99  
+- 💼 Freelancer: https://www.freelancer.com/u/mohamedabuassi9  
+- 💼 Upwork: https://www.upwork.com/freelancers/~01cdc392e434511061  
+
