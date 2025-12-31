@@ -104,7 +104,8 @@ Currently, I’m working on **Makani**, a proptech platform focused on property 
 
 ## Connect With Me
 
+- 🌐 LinkedIn: https://www.linkedin.com/in/mohammedabuassi/
 - 🌐 GitHub: https://github.com/mohamedabuassi99  
 - 💼 Freelancer: https://www.freelancer.com/u/mohamedabuassi9  
-- 💼 Upwork: https://www.upwork.com/freelancers/~01cdc392e434511061  
+- 💼 Upwork: https://www.upwork.com/freelancers/~01cdc392e434511061
 
