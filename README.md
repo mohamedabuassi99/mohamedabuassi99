@@ -61,7 +61,7 @@ Currently, I’m working on **Makani**, a proptech platform focused on property 
 ## Professional Experience
 
 ### Web Developer — Sooq Cars  
-**Oct 2024 – Present**
+**Oct 2024 – apr 2026**
 - Working on the development and maintenance of automotive marketplace systems.
 - Building and optimizing backend services using Laravel.
 - Developing admin dashboards and user-facing features with Vue.js.
