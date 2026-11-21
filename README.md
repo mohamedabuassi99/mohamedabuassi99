@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Backend Team Lead and system architect with **5+ years** building and scaling PHP/Laravel platforms. I led the full backend re-architecture of **Sooq Cars**, Oman's largest car marketplace app (1M+ users), cutting infrastructure costs by **30%+** while improving performance and uptime.
+Backend Team Lead and system architect with **9+ years** of experience building and scaling PHP/Laravel platforms.
 
 Strong in RESTful API design, MySQL/Redis optimization, security, and cloud deployment, with full-stack delivery of ERP, e-commerce, and subscription platforms.
 
