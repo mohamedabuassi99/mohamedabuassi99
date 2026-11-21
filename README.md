@@ -9,7 +9,6 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
 ---
 
